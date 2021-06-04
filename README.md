@@ -25,5 +25,12 @@
 ##### Then you have to click on Download ZIP button and extract that ZIP file.
 ##### But, If you are on linux you can even download Git and then run this command in Terminal:
 > git clone https://github.com/officialaksfoftg/how-to-make-your-own-Cryptocurrency.git
-> 
-Go ahead and check this link for more information : https://youtu.be/CsKl2o0TEkQ
+
+> cd how-to-make-your-own-Cryptocurrency*
+
+##### And for runing the main script you need to run this command in your CMD or Terminal
+##### Note: This process is same for Linux and Windows
+> node main.js
+
+##### If you had any problem just comment it below this video in Youtube: https://youtu.be/CsKl2o0TEkQ
+##### Go ahead and check this link for more information : https://youtu.be/CsKl2o0TEkQ
