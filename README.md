@@ -2,6 +2,7 @@
 ##### First you have to go to https://nodejs.org/en/ and download and install NodeJS
 ##### or If your are on Linux run this command for Ubuntu and Debain:
 > sudo apt-get install nodejs 
+
 > sudo apt-get install npm
 
 ##### If you are on Fedora run this command in your terminal:
@@ -9,10 +10,15 @@
 
 ##### If you are on Arch Linux run this command in your terminal:
 > git clone https://aur.archlinux.org/snapd.git
+
 > cd snapd
+
 > makepkg -si
+
 > sudo systemctl enable --now snapd.socket
+
 > sudo ln -s /var/lib/snapd/snap /snap
+
 > sudo snap install node --classic
 
 ##### OK, Now You need to go ahead and click on green Code button on the top of this page : https://github.com/officialaksfoftg/how-to-make-your-own-Cryptocurrency
