@@ -1,0 +1,7 @@
+npm
+npm Intellisense
+node-snippets
+node-readme
+JS Snippet
+JS JSX Snippets
+vscode-icons (optional)
